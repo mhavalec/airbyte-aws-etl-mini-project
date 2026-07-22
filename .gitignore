@@ -1,5 +1,7 @@
 # AWS SSH keys
 *.pem
+*.csv
 
 # SSH folder
 .ssh/
+.data/
