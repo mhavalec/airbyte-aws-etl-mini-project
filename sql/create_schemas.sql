@@ -1,5 +1,5 @@
 -- Creating schema to serve as source of data:
-create schema public;
+CREATE SCHEMA public;
 
 -- Creating schema stage
-create schema stage;
+CREATE SCHEMA stage;
